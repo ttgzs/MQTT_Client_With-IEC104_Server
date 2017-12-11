@@ -22,7 +22,6 @@ using uPLibrary.Networking.M2Mqtt.Messages;
 using lib60870;
 using System.Net.Sockets;
 using System.Threading;
-using Newtonsoft.Json.Linq;
 
 
 
