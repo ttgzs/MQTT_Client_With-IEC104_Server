@@ -1,0 +1,10 @@
+C:\Users\uau556\Downloads\lib60870-master\lib60870-master\lib60870.NET\lib60870\bin\Debug\lib60870.dll
+C:\Users\uau556\Downloads\lib60870-master\lib60870-master\lib60870.NET\lib60870\bin\Debug\lib60870.pdb
+C:\Users\uau556\Downloads\lib60870-master\lib60870-master\lib60870.NET\lib60870\obj\x86\Debug\lib60870.csprojResolveAssemblyReference.cache
+C:\Users\uau556\Downloads\lib60870-master\lib60870-master\lib60870.NET\lib60870\obj\x86\Debug\lib60870.dll
+C:\Users\uau556\Downloads\lib60870-master\lib60870-master\lib60870.NET\lib60870\obj\x86\Debug\lib60870.pdb
+C:\Data\CSharp\lib60870-master\lib60870.NET\lib60870\bin\Debug\lib60870.dll
+C:\Data\CSharp\lib60870-master\lib60870.NET\lib60870\bin\Debug\lib60870.pdb
+C:\Data\CSharp\lib60870-master\lib60870.NET\lib60870\obj\x86\Debug\lib60870.csprojResolveAssemblyReference.cache
+C:\Data\CSharp\lib60870-master\lib60870.NET\lib60870\obj\x86\Debug\lib60870.dll
+C:\Data\CSharp\lib60870-master\lib60870.NET\lib60870\obj\x86\Debug\lib60870.pdb

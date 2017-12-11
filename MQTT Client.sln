@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTT Client", "MQTT Client\MQTT Client.csproj", "{76AF8614-8CF5-4C0C-A682-99BE5E7B37D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D87E4B7-6C30-4BD4-88E4-B0965873DEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76AF8614-8CF5-4C0C-A682-99BE5E7B37D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AF8614-8CF5-4C0C-A682-99BE5E7B37D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AF8614-8CF5-4C0C-A682-99BE5E7B37D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AF8614-8CF5-4C0C-A682-99BE5E7B37D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

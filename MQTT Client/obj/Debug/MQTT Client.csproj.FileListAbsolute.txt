@@ -1,0 +1,44 @@
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.csprojResolveAssemblyReference.cache
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT_Client.MainForm.resources
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.csproj.GenerateResource.Cache
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.exe.config
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.exe
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.pdb
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\M2Mqtt.dll
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\Mqtt.dll
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.exe
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.pdb
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\MQTT Client.exe.config
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\MQTT Client.exe
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\MQTT Client.pdb
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\M2Mqtt.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\Mqtt.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Debug\MQTT Client.csprojResolveAssemblyReference.cache
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Debug\MQTT_Client.MainForm.resources
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Debug\MQTT Client.csproj.GenerateResource.Cache
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Debug\MQTT Client.exe
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Debug\MQTT Client.pdb
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\Newtonsoft.Json.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Core.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\Newtonsoft.Json.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Client.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Common.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.ContentModel.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Frameworks.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Packaging.Core.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Packaging.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Repositories.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.RuntimeModel.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Versioning.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Client.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Common.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.ContentModel.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Frameworks.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Packaging.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Packaging.Core.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Repositories.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.RuntimeModel.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Debug\NuGet.Versioning.xml

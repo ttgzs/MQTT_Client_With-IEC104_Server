@@ -1,0 +1,10 @@
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Release\MQTT Client.exe.config
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Release\MQTT Client.exe
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Release\M2Mqtt.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Release\Mqtt.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Release\Newtonsoft.Json.dll
+C:\Data\CSharp\MQTT Client\MQTT Client\bin\Release\Newtonsoft.Json.xml
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Release\MQTT Client.csprojResolveAssemblyReference.cache
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Release\MQTT_Client.MainForm.resources
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Release\MQTT Client.csproj.GenerateResource.Cache
+C:\Data\CSharp\MQTT Client\MQTT Client\obj\Release\MQTT Client.exe

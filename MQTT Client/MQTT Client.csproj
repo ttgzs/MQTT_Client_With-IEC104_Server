@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{76AF8614-8CF5-4C0C-A682-99BE5E7B37D7}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MQTT_Client</RootNamespace>
+    <AssemblyName>MQTT Client</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="M2Mqtt">
+      <HintPath>..\packages\MQTTPool.2.4\lib\M2Mqtt.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Mqtt">
+      <HintPath>..\packages\MQTTPool.2.4\lib\Mqtt.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.5\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="lib60870\ASDU.cs" />
+    <Compile Include="lib60870\BinaryCounterReading.cs" />
+    <Compile Include="lib60870\Bitstring32.cs" />
+    <Compile Include="lib60870\BufferFrame.cs" />
+    <Compile Include="lib60870\CauseOfTransmission.cs" />
+    <Compile Include="lib60870\Connection.cs" />
+    <Compile Include="lib60870\ConnectionParameters.cs" />
+    <Compile Include="lib60870\CP16Time2a.cs" />
+    <Compile Include="lib60870\CP24Time2a.cs" />
+    <Compile Include="lib60870\CP56Time2a.cs" />
+    <Compile Include="lib60870\DoublePointInformation.cs" />
+    <Compile Include="lib60870\EndOfInitialization.cs" />
+    <Compile Include="lib60870\EventOfProtectionEquipment.cs" />
+    <Compile Include="lib60870\Frame.cs" />
+    <Compile Include="lib60870\InformationObject.cs" />
+    <Compile Include="lib60870\IntegratedTotals.cs" />
+    <Compile Include="lib60870\LibraryCommon.cs" />
+    <Compile Include="lib60870\MeasuredValueNormalized.cs" />
+    <Compile Include="lib60870\MeasuredValueScaled.cs" />
+    <Compile Include="lib60870\MeasuredValueShort.cs" />
+    <Compile Include="lib60870\OutputCircuitInfo.cs" />
+    <Compile Include="lib60870\PackedOutputCircuitInfo.cs" />
+    <Compile Include="lib60870\PackedStartEventsOfProtectionEquipment.cs" />
+    <Compile Include="lib60870\ParameterMeasuredValues.cs" />
+    <Compile Include="lib60870\QualityDescriptor.cs" />
+    <Compile Include="lib60870\QualityDescriptorP.cs" />
+    <Compile Include="lib60870\ScaledValue.cs" />
+    <Compile Include="lib60870\Server.cs" />
+    <Compile Include="lib60870\ServerConnection.cs" />
+    <Compile Include="lib60870\SetpointCommandQualifier.cs" />
+    <Compile Include="lib60870\SetpointCommands.cs" />
+    <Compile Include="lib60870\SingleCommand.cs" />
+    <Compile Include="lib60870\SingleCommandQualifier.cs" />
+    <Compile Include="lib60870\SingleEvent.cs" />
+    <Compile Include="lib60870\SinglePointInformation.cs" />
+    <Compile Include="lib60870\StartEvent.cs" />
+    <Compile Include="lib60870\StatusAndStatusChangeDetection.cs" />
+    <Compile Include="lib60870\StepPositionInformation.cs" />
+    <Compile Include="lib60870\SystemInformationCommands.cs" />
+    <Compile Include="lib60870\SystemUtils.cs" />
+    <Compile Include="lib60870\TlsSecurityInformation.cs" />
+    <Compile Include="lib60870\TypeID.cs" />
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="lib60870\bin\Debug\lib60870.dll" />
+    <None Include="lib60870\bin\Debug\lib60870.pdb" />
+    <None Include="lib60870\obj\x86\Debug\lib60870.csproj.FileListAbsolute.txt" />
+    <None Include="lib60870\obj\x86\Debug\lib60870.csprojResolveAssemblyReference.cache" />
+    <None Include="lib60870\obj\x86\Debug\lib60870.dll" />
+    <None Include="lib60870\obj\x86\Debug\lib60870.pdb" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="lib60870" />
+    <Folder Include="lib60870\bin" />
+    <Folder Include="lib60870\bin\Debug" />
+    <Folder Include="lib60870\obj" />
+    <Folder Include="lib60870\obj\x86" />
+    <Folder Include="lib60870\obj\x86\Debug" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
